@@ -25,14 +25,22 @@ const int fx = 3;
 int cMinCost = INT_MAX;
 int fMinCost = INT_MAX;
 
-void FindCheese(int y, int x, int cost)
+void FindTarget(int y, int x, int ty, int tx, int cost)
 {
 	visited[y][x] = true;
 
-	if (y == cy && x == cx)
+	if (y == ty && x == tx)
 	{
-		if (cMinCost > cost)
-			cMinCost = cost;
+		if(ty == cy && tx == cx)
+		{
+			if (cMinCost > cost)
+				cMinCost = cost;
+		}
+		else if (ty == fy && tx == fx)
+		{
+			if (fMinCost > cost)
+				fMinCost = cost;
+		}
 
 		return;
 	}
@@ -48,7 +56,7 @@ void FindCheese(int y, int x, int cost)
 			map[newY][newX] == -1)
 			continue;
 
-		FindCheese(newY, newX, cost + 1);
+		FindTarget(newY, newX, ty, tx, cost + 1);
 		visited[newY][newX] = false;
 	}
 }
@@ -83,11 +91,14 @@ void FindFriend(int y, int x, int cost)
 
 int main(void)
 {
-	FindCheese(0, 0, 0);
-
+	FindTarget(0, 0, cy, cx, 0);
+	
 	visited.assign(3, vector<bool>(5, false));
 
-	FindFriend(cy, cx, 0);
+	FindTarget(cy, cx, fy, fx, 0);
+
+
+	//FindFriend(cy, cx, 0);
 
 	int result = cMinCost + fMinCost;
 
