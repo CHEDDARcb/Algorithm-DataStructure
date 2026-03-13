@@ -135,5 +135,50 @@
     <ClCompile Include="Brute-Force&amp;Back-Tracking&amp;FloodFill\Practice\13_BFS_ShortestPathinGraph.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="MST_Kruskal\Practice1\01_DFS_BacktrackingCustomOperators.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MST_Kruskal\Practice1\02_DFS_VirusSpread.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MST_Kruskal\Practice1\03_BFS_GridShortestPath.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MST_Kruskal\Practice1\04_BFS_CheeseBeforeFriend.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MST_Kruskal\Practice1\05_BFS_ReachableChickens.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MST_Kruskal\Practice1\06_DFS_FireworkSpread.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MST_Kruskal\Practice1\07_BFS_IslandSize.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MST_Kruskal\Practice1\08_BFSonAdjacencyMatrixGraph.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MST_Kruskal\Practice1\09_BFS_MazeShortestPath.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MST_Kruskal\Practice2\01_MaxProductin3x3Grid.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MST_Kruskal\Practice2\02_DFS_LexicographicalHerbRecipes.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MST_Kruskal\Practice2\03_MaxPointsBeverageShopping.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MST_Kruskal\Practice2\04_DFS_DiabloRotationPuzzleSolver.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MST_Kruskal\Practice2\test.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MST_Kruskal\Practice2\05_MinimumMeatFlippingPuzzle.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
