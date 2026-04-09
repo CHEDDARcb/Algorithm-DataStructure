@@ -18,7 +18,7 @@ struct Node
 struct DoorMove
 {
 	int da;
-	int db;
+	int schedule;
 };
 const vector<DoorMove> dir =
 {
@@ -52,7 +52,7 @@ int BFS(int ai, int bi)
 		for (int i = 0; i < dir.size(); ++i)
 		{
 			int newAI = cur.ai + dir[i].da;
-			int newBI = cur.bi + dir[i].db;
+			int newBI = cur.bi + dir[i].schedule;
 
 			if (newAI < 0 || newAI >= maxDoorNum ||
 				newBI < 0 || newBI >= maxDoorNum ||

@@ -183,9 +183,6 @@
     <ClCompile Include="BitwiseOperation&amp;BFS\BFS_ParentTracking.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Sort\소스.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="BitwiseOperation&amp;BFS\Check_Bit0_Is_0_Or_1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -223,6 +220,108 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="BitwiseOperation&amp;BFS\Practice\07_SlidingDoors_Ver_03.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Dynamic Programming\DP_FibonacciSequence.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Dynamic Programming\DP_Coin.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Dynamic Programming\DP_Knapsack.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Dynamic Programming\Practice1\01_LinkedListReview.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Dynamic Programming\Practice1\01_LinkedListReview_Ver02.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Dynamic Programming\Practice1\02_LinkedListReview2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Dynamic Programming\Practice1\03_ForwardLinkedList.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Dynamic Programming\Practice1\04_DinosaurDB.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Dynamic Programming\Practice1\05_StringHash.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Dynamic Programming\Practice1\06_DinosaurFossilSurvey.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Dynamic Programming\Practice1\07_AffiliateNewRecruits.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Dynamic Programming\Practice1\08_AgentCode.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Dynamic Programming\DFS_Coin.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Dynamic Programming\Pratice2\01_Greedy_RestroomWaitingTime.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Sort\SelectionSort.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Sort\InsertionSort.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Sort\BubbleSort.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Sort\MergeSort.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Dynamic Programming\Pratice2\02_DFS_CoinChange.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Dynamic Programming\Pratice2\02_Greedy_CoinChange.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Dynamic Programming\Pratice2\03_Greedy_MeetingRoomScheduling.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Dynamic Programming\Pratice2\소스.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Dynamic Programming\Pratice2\06_DP_WoodStacking.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Dynamic Programming\Pratice2\07_DP_FrogJump.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Dynamic Programming\Pratice2\08_DP_BlueMarbleJump.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Dynamic Programming\Pratice2\07_DP_FrogJump_Ver_GPT.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Dynamic Programming\Pratice2\09_DP_LongestCommonSubstring.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Dynamic Programming\Pratice2\04_FittingRodBlocks.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Dynamic Programming\Pratice2\05_DFS_MinimumDamagePath.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CountingSort\소스.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Dynamic Programming\DP_CodingTest\01_DP_ClimbingStairs.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Dynamic Programming\DP_CodingTest\02_DP_BestTimetoBuyandSellStock.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Dynamic Programming\DP_CodingTest\03_DP_MaximumSubarray.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Dynamic Programming\DP_CodingTest\04_HouseRobber.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

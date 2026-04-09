@@ -25,7 +25,7 @@ struct Node
 struct DoorMove
 {
     int da;
-    int db;
+    int schedule;
 };
 
 int main()
@@ -87,7 +87,7 @@ int main()
         for (const auto& [dir, move] : moveMap)
         {
             int next_a = cur.a_pos + move.da;
-            int next_b = cur.b_pos + move.db;
+            int next_b = cur.b_pos + move.schedule;
 
             if (next_a < 0 || next_a >= 5 ||
                 next_b < 0 || next_b >= 5 ||
