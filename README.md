@@ -60,17 +60,23 @@
 </details>
   
 
-# Algorithm
-
-#### Binary Search Tree
+## Algorithm
+<details>
+<summary><h3>Search</h3></summary>
 
 [**이진 탐색 트리**](https://www.notion.so/3519a595a8f580dca63cf0eeb594f838?pvs=21) 
 
-#### Direct
+</details>
+
+<details>
+<summary><h3>Direct</h3></summary>
 
 [**Direct 기법, 2중 포인터, 2차원 배열 패턴 찾기 (Direct, Double Ptr, 2D Pattern)**](https://www.notion.so/Direct-2-2-Direct-Double-Ptr-2D-Pattern-3519a595a8f58000b6a5f33d468de934?pvs=21) 
 
-#### DFS, BFS
+</details>
+
+<details>
+<summary><h3>DFS, BFS</h3></summary>
 
 [**재귀 함수에 대한 사실과 오해 (Recursion: Facts & Myths)**](https://www.notion.so/Recursion-Facts-Myths-3519a595a8f580808809eb6bc54b67cc?pvs=21) 
 
@@ -94,16 +100,25 @@
 
 [**비트연산으로 조합풀기, BFS 경로 추적하기 (Bitmask Combinations, BFS Path Trace)**](https://www.notion.so/BFS-Bitmask-Combinations-BFS-Path-Trace-3519a595a8f58017910fcd0c4b59361e?pvs=21) 
 
-#### Union-Find
+</details>
+
+<details>
+<summary><h3>Union-Find</h3></summary>
 
 [유니온 파인드 Union-Find](https://www.notion.so/Union-Find-3519a595a8f5801d9a9ada365c8823ce?pvs=21) 
 
-#### MST, Kruskal
+</details>
+
+<details>
+<summary><h3>MST, Kruskal</h3></summary>
 
 [**MST 최소신장 트리 Kruskal 알고리즘 (MST, Kruskal)**](https://www.notion.so/MST-Kruskal-MST-Kruskal-3519a595a8f5801bafa9f57c50425acc?pvs=21) 
 
-#### Sort
+</details>
 
+<details>
+<summary><h3>Sort</h3></summary>
+  
 [Bubble Sort](https://www.notion.so/Bubble-Sort-27d9a595a8f58016a296d982ebc28855?pvs=21) 
 
 [Insertion Sort](https://www.notion.so/Insertion-Sort-27e9a595a8f580d58c62ead69751f407?pvs=21) 
@@ -120,58 +135,32 @@
 
 [**unordered_map, 계수 정렬 (unordered_map, Counting Sort)**](https://www.notion.so/unordered_map-unordered_map-Counting-Sort-3519a595a8f5807fbf3bcc4e0efe6912?pvs=21) 
 
-#### DP
+</details>
+
+<details>
+<summary><h3>DP</h3></summary>
 
 [**다이나믹 프로그래밍 DP (Dynamic Programming)**](https://www.notion.so/DP-Dynamic-Programming-3519a595a8f580efa278d360fef04e2f?pvs=21) 
 
-#### Dijkstra
+</details>
+
+<details>
+<summary><h3>Dijkstra</h3></summary>
 
 [**다익스트라 알고리즘 (Dijkstra's Algorithm)**](https://www.notion.so/Dijkstra-s-Algorithm-3519a595a8f580e0990ef952d7641be4?pvs=21) 
 
-#### AVL Tree
+</details>
+
+<details>
+<summary><h3>AVL Tree</h3></summary>
 
 [**AVL 균형 이진 트리 구현하기 (AVL Tree)**](https://www.notion.so/AVL-AVL-Tree-3519a595a8f580d28612dcee8b8ed810?pvs=21) 
 
-#### Red-Black Tree
-
-[**레드-블랙 트리 구현하기 (Implement Red-Black Tree)**](https://www.notion.so/Implement-Red-Black-Tree-3519a595a8f580f5abd6ce9c81d25234?pvs=21)
-
-
+</details>
 
 <details>
-<summary>클릭해서 펼치기</summary>
+<summary><h3>Red-Black Tree</h3></summary>
 
-- Bit Masking
-- Direct Array
-- Hash Table
-  - Direct Adressing Table
-- Recursive Function
-  - Path Tracking
-  - Pruning
-    - Prevention
-    - Early Return
-  - Tail Call
-- Linked List
-- Stack
-- Queue
-- Graph / Tree
-  - Adjacency Matrix
-- DFS
-- BFS
-- Permutation
-  - Next Permutation
-- Combitation
-- Binary Search Tree
-- Heap
-  - Priority Queue
-- Union Find
-- MST - KRUSKAL Algorithm
-- Sort
-  - Bubble
-  - Selection
-  - Insertion
-  - Merge
-  - Heap
-
+[**레드-블랙 트리 구현하기 (Implement Red-Black Tree)**](https://www.notion.so/Implement-Red-Black-Tree-3519a595a8f580f5abd6ce9c81d25234?pvs=21)
 
 </details>
